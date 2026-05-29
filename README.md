@@ -88,10 +88,6 @@ Output Layer (0–9)
 
 ![Conv2 Feature Maps](conv2_featuremaps.png)
 
-### Combined Feature Map Output
-
-![Output Feature Maps](output_featuremaps.png)
-
 ---
 
 ## Results
