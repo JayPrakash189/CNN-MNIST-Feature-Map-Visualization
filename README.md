@@ -82,11 +82,10 @@ Output Layer (0–9)
 
 ### First Convolution Layer
 
-![Conv1 Feature Maps](conv1_featuremaps.png)
+[Conv1 Feature Maps]
 
 ### Second Convolution Layer
-
-![Conv2 Feature Maps](conv2_featuremaps.png)
+[Conv2 Feature Maps]
 
 ---
 
